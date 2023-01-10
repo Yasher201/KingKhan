@@ -50,15 +50,6 @@ King Khan is currently using  the following, and instructions on how to use them
 
 Want to contribute? Great!
 
-The best way to help is by suggestions! Feel free to join my discord server and test it out!
-https://discord.gg/3HhvB7hXsH
+The best way to help is by suggestions! Feel free to message me and let me know your thoughts!
 
 You can also make your own Discord BOT adjusting and tweaking my code.
-
-
-
-### Join
-If you would like to test it out for yourself or simply join the community, feel free to click the link below!
-
-
-https://discord.gg/3HhvB7hXsH
